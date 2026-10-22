@@ -29,9 +29,7 @@ Tasky adalah aplikasi berbasis Android untuk mencatat dan mengelola daftar tugas
 
 ## 📸 Tangkapan Layar (Screenshot)
 
-| Daftar Tugas Kosong | Daftar Tugas Terisi |
-|---------------------|---------------------|
-| _(tambahkan screenshot)_ | _(tambahkan screenshot)_ |
+   ![Tampilan Tasky](Screen%201.jpeg)
 
 ## ⚠️ Keterbatasan
 
@@ -43,9 +41,5 @@ Mempraktikkan pengembangan aplikasi Android, pembuatan antarmuka dengan Jetpack 
 
 ## 👤 Pembuat
 
-- Nama: _(Eggy Religiana Nurul Islami)_
-- NIM: _(24091008)_
-
----
-
-Small steps, big progress. Yuk, selesaikan tugasmu! 💜
+- Nama: Eggy Religiana Nurul Islami
+- NIM: 24091008
